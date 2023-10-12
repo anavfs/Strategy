@@ -27,6 +27,7 @@ public class Disciplina {
         this.nome = nome;
     }
 
+
     public double getP2() {
         return p2;
     }

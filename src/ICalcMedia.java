@@ -4,3 +4,4 @@ public interface ICalcMedia {
 
     String Situacao(double media);
 }
+
